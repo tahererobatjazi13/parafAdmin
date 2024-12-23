@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: co.pushe.plus:analytics:2.5.1-rc01@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.jdks/corretto-1.8.0_372/caches/transforms-3/4deb3205ee48a9ec00d90c14ad77ee0f/transformed/jetified-analytics-2.5.1-rc01/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.jdks/corretto-1.8.0_372/caches/transforms-3/4deb3205ee48a9ec00d90c14ad77ee0f/transformed/jetified-analytics-2.5.1-rc01/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.jdks/corretto-1.8.0_372/caches/transforms-3/4deb3205ee48a9ec00d90c14ad77ee0f/transformed/jetified-analytics-2.5.1-rc01/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

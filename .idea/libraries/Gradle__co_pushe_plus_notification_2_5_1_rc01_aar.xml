@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: co.pushe.plus:notification:2.5.1-rc01@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.jdks/corretto-1.8.0_372/caches/transforms-3/fe19bdeb085d06f03074a4b9f8e6f81c/transformed/jetified-notification-2.5.1-rc01/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.jdks/corretto-1.8.0_372/caches/transforms-3/fe19bdeb085d06f03074a4b9f8e6f81c/transformed/jetified-notification-2.5.1-rc01/res" />
+      <root url="file://$USER_HOME$/.jdks/corretto-1.8.0_372/caches/transforms-3/fe19bdeb085d06f03074a4b9f8e6f81c/transformed/jetified-notification-2.5.1-rc01/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

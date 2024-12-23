@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="Gradle: dev.b3nedikt.applocale:applocale:2.0.3@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.jdks/corretto-1.8.0_372/caches/transforms-3/4c2b7d6571863853a28ee9743663f135/transformed/jetified-applocale-2.0.3/res" />
+      <root url="jar://$USER_HOME$/.jdks/corretto-1.8.0_372/caches/transforms-3/4c2b7d6571863853a28ee9743663f135/transformed/jetified-applocale-2.0.3/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.jdks/corretto-1.8.0_372/caches/transforms-3/4c2b7d6571863853a28ee9743663f135/transformed/jetified-applocale-2.0.3/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.jdks/corretto-1.8.0_372/caches/modules-2/files-2.1/dev.b3nedikt.applocale/applocale/2.0.3/6fae7949f27f438104a00ff7c01866b18791a4ab/applocale-2.0.3-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.jdks/corretto-1.8.0_372/caches/modules-2/files-2.1/dev.b3nedikt.applocale/applocale/2.0.3/de8a74e5662a3a40142d535f82c00f7aa078d239/applocale-2.0.3-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

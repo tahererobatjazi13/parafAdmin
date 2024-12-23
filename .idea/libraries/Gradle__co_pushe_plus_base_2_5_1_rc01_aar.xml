@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Gradle: co.pushe.plus:base:2.5.1-rc01@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.jdks/corretto-1.8.0_372/caches/transforms-3/92834a39871f88fb37bc9b095e7a2f5c/transformed/jetified-base-2.5.1-rc01/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.jdks/corretto-1.8.0_372/caches/transforms-3/92834a39871f88fb37bc9b095e7a2f5c/transformed/jetified-base-2.5.1-rc01/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

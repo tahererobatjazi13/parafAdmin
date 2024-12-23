@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Gradle: dev.b3nedikt.viewpump:viewpump:4.0.7@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.jdks/corretto-1.8.0_372/caches/transforms-3/3d53a83f64b21682b14347e2e0a127ec/transformed/jetified-viewpump-4.0.7/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.jdks/corretto-1.8.0_372/caches/transforms-3/3d53a83f64b21682b14347e2e0a127ec/transformed/jetified-viewpump-4.0.7/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.jdks/corretto-1.8.0_372/caches/modules-2/files-2.1/dev.b3nedikt.viewpump/viewpump/4.0.7/f92c4ac74c7e7622087a2ce2440c7913342cabe2/viewpump-4.0.7-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.jdks/corretto-1.8.0_372/caches/modules-2/files-2.1/dev.b3nedikt.viewpump/viewpump/4.0.7/f632c54bff0b046481071a763112ccf02ad34258/viewpump-4.0.7-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

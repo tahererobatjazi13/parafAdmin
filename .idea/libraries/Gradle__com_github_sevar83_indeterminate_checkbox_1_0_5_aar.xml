@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.sevar83:indeterminate-checkbox:1.0.5@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.jdks/corretto-1.8.0_372/caches/transforms-3/369deaf3db390af14e78643ecde7ff68/transformed/jetified-indeterminate-checkbox-1.0.5/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.jdks/corretto-1.8.0_372/caches/transforms-3/369deaf3db390af14e78643ecde7ff68/transformed/jetified-indeterminate-checkbox-1.0.5/res" />
+      <root url="file://$USER_HOME$/.jdks/corretto-1.8.0_372/caches/transforms-3/369deaf3db390af14e78643ecde7ff68/transformed/jetified-indeterminate-checkbox-1.0.5/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.jdks/corretto-1.8.0_372/caches/modules-2/files-2.1/com.github.sevar83/indeterminate-checkbox/1.0.5/29b204c871bb33d20d5e4f9a75906bfe9bef3c42/indeterminate-checkbox-1.0.5-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

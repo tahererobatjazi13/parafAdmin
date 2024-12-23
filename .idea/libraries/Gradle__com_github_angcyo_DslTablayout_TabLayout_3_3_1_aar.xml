@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.angcyo.DslTablayout:TabLayout:3.3.1@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.jdks/corretto-1.8.0_372/caches/transforms-3/ca210ec1600b4b64efe5d9ccb216a197/transformed/jetified-TabLayout-3.3.1/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.jdks/corretto-1.8.0_372/caches/transforms-3/ca210ec1600b4b64efe5d9ccb216a197/transformed/jetified-TabLayout-3.3.1/res" />
+      <root url="file://$USER_HOME$/.jdks/corretto-1.8.0_372/caches/transforms-3/ca210ec1600b4b64efe5d9ccb216a197/transformed/jetified-TabLayout-3.3.1/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.jdks/corretto-1.8.0_372/caches/modules-2/files-2.1/com.github.angcyo.DslTablayout/TabLayout/3.3.1/f7a3005fdc4556d9bb473d071d302043d4ae7d30/TabLayout-3.3.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: io.github.nikartm:image-support:2.0.0@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.jdks/corretto-1.8.0_372/caches/transforms-3/21c37584201e6497b66b58fd6f1ea2fb/transformed/jetified-image-support-2.0.0/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.jdks/corretto-1.8.0_372/caches/transforms-3/21c37584201e6497b66b58fd6f1ea2fb/transformed/jetified-image-support-2.0.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.jdks/corretto-1.8.0_372/caches/transforms-3/21c37584201e6497b66b58fd6f1ea2fb/transformed/jetified-image-support-2.0.0/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.jdks/corretto-1.8.0_372/caches/modules-2/files-2.1/io.github.nikartm/image-support/2.0.0/2e1eaa57d64d2490e3441e2a52433f9b605c311/image-support-2.0.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

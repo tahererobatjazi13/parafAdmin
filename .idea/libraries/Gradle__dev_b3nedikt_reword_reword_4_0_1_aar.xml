@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="Gradle: dev.b3nedikt.reword:reword:4.0.1@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.jdks/corretto-1.8.0_372/caches/transforms-3/02c5563339fc2cbc7030f4139fa6f123/transformed/jetified-reword-4.0.1/res" />
+      <root url="file://$USER_HOME$/.jdks/corretto-1.8.0_372/caches/transforms-3/02c5563339fc2cbc7030f4139fa6f123/transformed/jetified-reword-4.0.1/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.jdks/corretto-1.8.0_372/caches/transforms-3/02c5563339fc2cbc7030f4139fa6f123/transformed/jetified-reword-4.0.1/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.jdks/corretto-1.8.0_372/caches/modules-2/files-2.1/dev.b3nedikt.reword/reword/4.0.1/bb3d8596a54d4fcc3514f2720994487e805c4377/reword-4.0.1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.jdks/corretto-1.8.0_372/caches/modules-2/files-2.1/dev.b3nedikt.reword/reword/4.0.1/32376071397d1ee3bad3afd75ed189652e8c8bd5/reword-4.0.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

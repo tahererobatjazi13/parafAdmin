@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="Gradle: dev.b3nedikt.restring:restring:5.1.4@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.jdks/corretto-1.8.0_372/caches/transforms-3/f5b7b32f77d62146380ed46fd1dd77d8/transformed/jetified-restring-5.1.4/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.jdks/corretto-1.8.0_372/caches/transforms-3/f5b7b32f77d62146380ed46fd1dd77d8/transformed/jetified-restring-5.1.4/res" />
+      <root url="file://$USER_HOME$/.jdks/corretto-1.8.0_372/caches/transforms-3/f5b7b32f77d62146380ed46fd1dd77d8/transformed/jetified-restring-5.1.4/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.jdks/corretto-1.8.0_372/caches/modules-2/files-2.1/dev.b3nedikt.restring/restring/5.1.4/efc9e7d8d2d9961dd4903293fd301234b9bec2ed/restring-5.1.4-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.jdks/corretto-1.8.0_372/caches/modules-2/files-2.1/dev.b3nedikt.restring/restring/5.1.4/8c9202721827f11babefb3d4470f0e8d7e3ad56c/restring-5.1.4-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.mehedibangladeshi:AVDP-Android:0.2.0@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.jdks/corretto-1.8.0_372/caches/transforms-3/957094305b4fac070f2ca2db936e1408/transformed/jetified-AVDP-Android-0.2.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.jdks/corretto-1.8.0_372/caches/transforms-3/957094305b4fac070f2ca2db936e1408/transformed/jetified-AVDP-Android-0.2.0/res" />
+      <root url="file://$USER_HOME$/.jdks/corretto-1.8.0_372/caches/transforms-3/957094305b4fac070f2ca2db936e1408/transformed/jetified-AVDP-Android-0.2.0/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

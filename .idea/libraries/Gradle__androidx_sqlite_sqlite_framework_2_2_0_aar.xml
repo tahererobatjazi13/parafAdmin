@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: androidx.sqlite:sqlite-framework:2.2.0@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.jdks/corretto-1.8.0_372/caches/transforms-3/fe3466bba93030fa3830296b837a5bc7/transformed/sqlite-framework-2.2.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.jdks/corretto-1.8.0_372/caches/transforms-3/fe3466bba93030fa3830296b837a5bc7/transformed/sqlite-framework-2.2.0/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.jdks/corretto-1.8.0_372/caches/transforms-3/fe3466bba93030fa3830296b837a5bc7/transformed/sqlite-framework-2.2.0/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.jdks/corretto-1.8.0_372/caches/modules-2/files-2.1/androidx.sqlite/sqlite-framework/2.2.0/276e5b579e93de6c6d9474d33d0e622cd35bf9e7/sqlite-framework-2.2.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

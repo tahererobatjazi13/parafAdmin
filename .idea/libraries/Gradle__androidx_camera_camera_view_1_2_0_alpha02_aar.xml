@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="Gradle: androidx.camera:camera-view:1.2.0-alpha02@aar">
+    <ANNOTATIONS>
+      <root url="jar://$USER_HOME$/.jdks/corretto-1.8.0_372/caches/transforms-3/282e83b922cb9f2cc694f40222f3a2de/transformed/jetified-camera-view-1.2.0-alpha02/annotations.zip!/" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.jdks/corretto-1.8.0_372/caches/transforms-3/282e83b922cb9f2cc694f40222f3a2de/transformed/jetified-camera-view-1.2.0-alpha02/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.jdks/corretto-1.8.0_372/caches/transforms-3/282e83b922cb9f2cc694f40222f3a2de/transformed/jetified-camera-view-1.2.0-alpha02/res" />
+      <root url="file://$USER_HOME$/.jdks/corretto-1.8.0_372/caches/transforms-3/282e83b922cb9f2cc694f40222f3a2de/transformed/jetified-camera-view-1.2.0-alpha02/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.jdks/corretto-1.8.0_372/caches/modules-2/files-2.1/androidx.camera/camera-view/1.2.0-alpha02/c2d6a8a9cefcc973528ebd1aa0a39341dd643cd6/camera-view-1.2.0-alpha02-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

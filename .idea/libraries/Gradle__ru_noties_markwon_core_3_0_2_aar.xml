@@ -1,0 +1,18 @@
+<component name="libraryTable">
+  <library name="Gradle: ru.noties.markwon:core:3.0.2@aar">
+    <ANNOTATIONS>
+      <root url="jar://$USER_HOME$/.jdks/corretto-1.8.0_372/caches/transforms-3/daf560db49d17809fa08b0b67a84e750/transformed/jetified-core-3.0.2/annotations.zip!/" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="file://$USER_HOME$/.jdks/corretto-1.8.0_372/caches/transforms-3/daf560db49d17809fa08b0b67a84e750/transformed/jetified-core-3.0.2/res" />
+      <root url="jar://$USER_HOME$/.jdks/corretto-1.8.0_372/caches/transforms-3/daf560db49d17809fa08b0b67a84e750/transformed/jetified-core-3.0.2/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.jdks/corretto-1.8.0_372/caches/transforms-3/daf560db49d17809fa08b0b67a84e750/transformed/jetified-core-3.0.2/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.jdks/corretto-1.8.0_372/caches/modules-2/files-2.1/ru.noties.markwon/core/3.0.2/fd04a574d10bc5ba6e4cfda55f4cf8cf9ae878c4/core-3.0.2-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.jdks/corretto-1.8.0_372/caches/modules-2/files-2.1/ru.noties.markwon/core/3.0.2/4b7e614209803203bb8adbd65bde0f6afe9e89b9/core-3.0.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
